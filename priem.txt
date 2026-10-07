@@ -1,1 +1,8 @@
 this from frontend
+
+ git switch -C frontend
+ git add .
+ git commit -m "changed priem file"
+ git push -u origin frontend
+ 
+ 

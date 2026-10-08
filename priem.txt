@@ -2,3 +2,6 @@ this from frontend
 136
 567aaadad
 sdd
+
+git switch main     # TO CHANGE BRNACH                
+git switch -c main     # CRWEATE BRNACH             
